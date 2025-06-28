@@ -21,3 +21,6 @@ This project is a real-time Rock-Paper-Scissors (RPS) hand gesture classifier bu
   -  Torchvision: Image preprocessing and dataset handling
   -  OpenCV: Webcam capture and live visualization
   -  PIL: Image format conversion for preprocessing
+  -  Rock Paper Scissors image dataset can be found here --> https://www.kaggle.com/datasets/drgfreeman/rockpaperscissors
+
+
